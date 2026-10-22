@@ -1,21 +1,21 @@
 # Algoritmia-s1
-#SALUDO
-##Prueba 1
+## SALUDO
+### Prueba 1
 1. ¿Cómo te llamas?
 2. Valeria
 3. Hola, Valeria. Bienvenid@ a ALgoritmia
-##Prueba 2
+### Prueba 2
 1. ¿Cómo te llamas?
 2. Isa
 3. Hola, Isa. Bienvenid@ a ALgoritmia
 
 
-#EDAD EN DIAS
-##Prueba 1
+## EDAD EN DIAS
+### Prueba 1
 1. ¿Cual es tu edad?
 2. 1
 3. Tu edad aproximada en dias es : 365
-##Prueba 2
+### Prueba 2
 1. ¿Cual es tu edad?
 2. 24
 3. Tu edad aproximada en dias es : 8760
