@@ -20,8 +20,8 @@
 2. 24
 3. Tu edad aproximada en dias es : 8760
 
-#PROGRAMA DE PROPINAS
-##Prueba 1
+## PROGRAMA DE PROPINAS
+### Prueba 1
 1. ¿cual fue el total de la cuenta?
 2. 100000
 3. ¿cual es el porcentaje de la propina?
@@ -33,7 +33,7 @@
 9. El total de la cuenta es: 129000
 10. Sin propina cada uno paga: 0
 11. Con propina Cada uno paga: 64500
-##Prueba 2 
+### Prueba 2 
 1. ¿cual fue el total de la cuenta?
 2. 58741
 3. ¿cual es el porcentaje de la propina?
@@ -46,8 +46,8 @@
 10. Sin propina cada uno paga: 0
 11. Con propina Cada uno paga: 18062.8575
 
-#PROMEDIO DE NOTAS
-##Prueba 1
+## PROMEDIO DE NOTAS
+### Prueba 1
 1. Ingresa nota 1:
 2. 5.0
 3. Ingresa nota 2:
@@ -55,7 +55,7 @@
 5. Ingresa nota 3:
 6. 1.8
 7. Tu promedio es: 3.3666666667
-##Prueba 2
+### Prueba 2
 1. Ingresa nota 1:
 2. 0.8
 3. Ingresa nota 2:
